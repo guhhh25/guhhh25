@@ -1,6 +1,6 @@
 ### Ola me chamo Gustavo 👋
 
-- 🌱 Estudante de Front-end
+- 🌱 Desenvolvedor Front End
 
 <div>
   <a href="https://github.com/rafaballerini">
