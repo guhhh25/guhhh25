@@ -1,6 +1,6 @@
 ### Ola me chamo Gustavo 👋
 
-- 🌱 Desenvolvedor Front End
+- 🌱 Desenvolvedor Fullstack
 
 <div>
   <a href="https://github.com/rafaballerini">
