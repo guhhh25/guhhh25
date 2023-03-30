@@ -1,4 +1,4 @@
-### Ola me chamo Gustavo 👋
+### Olá me chamo Gustavo 👋
 
 - 🌱 Desenvolvedor Fullstack
 
