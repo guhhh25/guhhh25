@@ -27,6 +27,7 @@
 ![Node](https://img.shields.io/badge/Node-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=903ba7&labelColor=0D1117&color=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=0D1117&color=0D1117)&nbsp;
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117&color=0D1117" alt="ASP.NET" />
 
 <br/>
 
