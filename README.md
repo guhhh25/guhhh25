@@ -28,6 +28,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=903ba7&labelColor=0D1117&color=0D1117)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white&labelColor=0D1117&color=0D1117)&nbsp;
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117&color=0D1117" alt="ASP.NET" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=0D1117" alt="Python" />
 
 <br/>
 
